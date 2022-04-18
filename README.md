@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuchen Tang. 
 - 👀 I’m interested in statistics and machine learning. 
-- 🌱 I’m currently learning statistics.
+- 🌱 I’m currently a master student who is learning statistics.
 
 
 <!---
